@@ -16,7 +16,7 @@
 
 <br/>
 <p align="center">
-<img src="./img/ethereum/AccountAbstraction_ETH.png width="500" alt="aa">
+<img src="img/ethereum/AccountAbstraction_ETH.png" width="500" alt="aa">
 </p>
 <br/>
 
